@@ -1,6 +1,3 @@
-# RobustMAE
-Official PyTorch implementation for "Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting".
-
 # RobustMAE (ICCV 2023)
 This repository provides the official PyTorch implementation of the following conference paper: 
 > **Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting (ICCV 2023)** <br>
