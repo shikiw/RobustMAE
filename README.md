@@ -9,7 +9,7 @@ This repository provides the official PyTorch implementation of the following co
 > [Gang Hua](https://www.ganghua.org/)<sup>4</sup>, 
 > [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html)<sup>1</sup>, 
 > [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en)<sup>1</sup> <br>
-> <sup>1</sup>University of Science and Technology of China, <sup>2</sup>Shangai AI Lab, <sup>3</sup>Microsoft, <sup>4</sup>Wormpex AI Research <br>
+> <sup>1</sup>University of Science and Technology of China, <sup>2</sup>Shanghai AI Lab, <sup>3</sup>Microsoft, <sup>4</sup>Wormpex AI Research <br>
 >
 
 
