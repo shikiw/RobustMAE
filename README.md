@@ -14,6 +14,6 @@ This repository provides the official PyTorch implementation of the following co
 
 
 ## To Do
-- [ ] Release code
-- [x] Camera ready
+- [ ] Release training code
+- [ ] Release evalaution code
 
