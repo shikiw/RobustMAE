@@ -1,7 +1,7 @@
 # RobustMAE (ICCV 2023)
 This repository provides the official PyTorch implementation of the following conference paper: 
 > [**Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting (ICCV 2023)**](https://arxiv.org/abs/2308.10315) <br>
-> [Qidong Huang](http://home.ustc.edu.cn/~hqd0037/)<sup>1</sup>, 
+> [Qidong Huang](https://shikiw.github.io/)<sup>1</sup>, 
 > [Xiaoyi Dong](https://scholar.google.com/citations?user=FscToE0AAAAJ&hl=en)<sup>2</sup>, 
 > [Dongdong Chen](https://www.dongdongchen.bid/)<sup>3</sup>,
 > [Yinpeng Chen](https://scholar.google.com/citations?user=V_VpLksAAAAJ&hl=en)<sup>3</sup>,
